@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# C++ / Visual Studio
+/backend_cpp/build/
+*.sln
+*.vcxproj
+*.user
+.vs/
+*.exe
+*.pdb
+
+
