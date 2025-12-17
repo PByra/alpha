@@ -12,4 +12,5 @@ venv/
 *.exe
 *.pdb
 
-
+#API Keys 
+.env 
