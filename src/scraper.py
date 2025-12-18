@@ -1,5 +1,5 @@
 #Functions related to api calls and web scraping, this is our data collection hub
-
+#simple testing
 import yfinance as yf
 
 def grab_stock_data(ticker):
