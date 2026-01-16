@@ -1,0 +1,17 @@
+{
+  "total_tickers": 4,
+  "tickers_created": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "TSLA"
+  ],
+  "failed": [],
+  "source_file": "test_market_data.csv",
+  "total_rows": 12,
+  "conversion_time": "2026-01-15 20:25:37",
+  "successful_tickers": 4,
+  "failed_tickers": 0,
+  "total_data_points": 12,
+  "success_rate": "100.0%"
+}

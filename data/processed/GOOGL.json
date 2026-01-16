@@ -1,0 +1,34 @@
+{
+  "ticker": "GOOGL",
+  "data_points": 3,
+  "first_date": "2020-01-02",
+  "last_date": "2020-01-06",
+  "source": "test_market_data.csv",
+  "converted_at": "2026-01-15 20:25:37",
+  "historical_data": [
+    {
+      "date": "2020-01-02",
+      "open": 1396.42,
+      "high": 1421.76,
+      "low": 1395.01,
+      "close": 1419.08,
+      "volume": 2031800
+    },
+    {
+      "date": "2020-01-03",
+      "open": 1419.08,
+      "high": 1438.77,
+      "low": 1415.51,
+      "close": 1433.18,
+      "volume": 1907100
+    },
+    {
+      "date": "2020-01-06",
+      "open": 1437.88,
+      "high": 1446.8,
+      "low": 1424.23,
+      "close": 1442.0,
+      "volume": 1597800
+    }
+  ]
+}
